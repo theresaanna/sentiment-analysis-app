@@ -1,0 +1,5 @@
+Flask==2.3.3
+Flask-CORS==4.0.0
+redis==4.6.0
+celery==5.3.4
+gunicorn==21.2.0
